@@ -8,7 +8,7 @@
 
 ![Alt Text](https://media.giphy.com/media/suhzmI6Iqiije/giphy.gif)
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am really intrigued by this tale of virtual reality. As I kept listening to the audio book, I grew more and more attach to the story. I had dreams that kept me from ever wanting to wake up sometimes. In those dreams, I sometime develope intimate relationships with others who simply vanish literally from a blink of an eye and it hurts. I can relate to the main character as towards the end he also wanted to stay but can’t. The difference here is that he remembers everything that happened. Unfortunately, when we wake up from a dream we tend to forget a lot of it. This is both a blessing and a curse. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am really intrigued by this tale of virtual reality. As I kept listening to the audio book, I grew more and more attach to the story. I had dreams that kept me from ever wanting to wake up sometimes. In those dreams, I sometime develop intimate relationships with others who simply vanish literally from a blink of an eye and it hurts. I can relate to the main character as towards the end he also wanted to stay but can’t. The difference here is that he remembers everything that happened. Unfortunately, when we wake up from a dream we tend to forget a lot of it. This is both a blessing and a curse. 
 
 ###### References
 1. Weinbaum, Stanley G. _Pygmalion's Spectacles_. https://youtu.be/IsylXXhpqnY
