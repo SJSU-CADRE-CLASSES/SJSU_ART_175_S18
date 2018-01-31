@@ -1,4 +1,4 @@
-#Assignment 1 reading response#
+# Assignment 1 reading response #
 
 ![Alt Text](https://media.giphy.com/media/suhzmI6Iqiije/giphy.gif)
 
