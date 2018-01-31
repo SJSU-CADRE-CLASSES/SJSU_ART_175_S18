@@ -1,4 +1,4 @@
-### ART 175 - Assignment 1
+### ART 175 - Reading 1
 
 I find it amazing that, despite being written over 100 years ago, the concept in the narrative can still hold today and can spike conversations that heavily relate to the world that is not the real one—the reality as we know it.
 
