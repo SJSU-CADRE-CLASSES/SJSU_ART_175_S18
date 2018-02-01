@@ -82,7 +82,7 @@ Schedule
 | ------------------- |----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | *Week 1* 01/25      | Course Introduction/Overview of Syllabus *** Introductions (Instructor-Students) *** Online Research/Tutorials/GitHub Registration *** Unity + Maya Download *** **Assignment OneL https://www.youtube.com/watch?v=IsylXXhpqnY** ***|
 | *Week 2* 01/30      | **Due:Assignment 1** *** Maya Tutorial 1: Intro to Maya basics *** Introduction to experimental 3D methods in Digital Media Art context and screen inspirational videos|
-| 02/01               | Screen related works (narrative + modeling + lighting) *** Work on first modeling assignment |
+| 02/01               | Screen related works (VR narrative + modeling + lighting) *** Work on first modeling assignment |
 | *Week 3* 02/06      | **Due: Project One:** Intro to Maya Basics + Modeling Assignment *** Maya Tutorial 2: Introduction to Lighting, Introduction to rendering *** Class exercise/Maya Problem Solving |
 | 02/08               | Screen Inspiration Videos *** Ideas + Concepts for the first project (each student must come to class with sketches/storyboard/research notes/and concepts they are interested in) *** **Assign Reading 1** |
 | *Week 4* 02/13      | **Due: Reading 1** Maya Tutorial 3: Introduction to texture + 2D vs. 3D *** Workshop Day |
