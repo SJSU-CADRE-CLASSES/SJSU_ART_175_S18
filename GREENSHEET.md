@@ -92,15 +92,18 @@ Schedule
 | *Week 6* 02/27      | Maya Tutorial 4: Introduction to Keyframe AnimationTimeline; Graph Editor; Playblast; Batch Rendering *** Class Exercise |
 | 03/01               | Screen: Related Videos Introduction to Maya with Unity *** **Assign Reading 2** |
 | *Week 7* 03/06      | **Due: Reading 2** *** Ideas + Concepts for the third project (each team must come to class with sketches/research notes/and concepts they are interested in) *** Maya Problem Solving/Workshop Day  *** Screen Related works |
+| Thursday 03/08      | **Andrew Presenting at IBM Almeden 10am**
 | 03/08               | **Third Assignment Due** *** Due: One page Concept for Third Project + Team Members |
 | *Week 8* 03/13      | Unity Tutorial 2 *** Class exercise/Maya/Unity Problem Solving |
 | 03/15               | Screen: Related Videos/Works *** Introduction to VR |
 | *Week 9* 03/20      | **Third Project DUE** Presentation Day ---> Student Presentation of Third Project  |
 | 03/22               | **Third Project DUE** Presentation Day ---> Student Presentation of Third Project  |
+| Friday 03/24        | **LAST Exibition** Andrew performing at Stanford |
 | *Week 10* 03/27     | Spring Break |
 | 03/29               | Spring Break |
 | *Week 11* 04/03     | Introduction of 4rd project *** Unity Tutorial 3 *** **Assign Reading 3** |
 | 04/05               | **Due: Reading 3** Screen Videos + Class Discussion |
+| Thursday 04/05      | **SOFTWAR(e)** Opening at b4bel4b in Oakland!! |
 | *Week 12* 04/10     | **Due: Assignment 4** *** Show and Tell: Different Maya/Unity Components (Student Presentations)  |
 | 04/12               | **ATC Class will meet in MLK** |
 | *Week 13* 04/17     | **Fourth Project Due** Presentation Day ---> Student Presentation of Fourth Project |
@@ -111,5 +114,6 @@ Schedule
 | 05/3                | In class: working on final/problem solving *** Workshop Day For Final  |
 | *Week 16* 05/08     | **Final Presentations** Presentation Day ---> Student Presentation of Final Project  |
 | 05/10               | **Final Presentations** Presentation Day ---> Student Presentation of Final Project |
+| Date TBA            | **Hammer Graduating Group Show**
 | *Final*  TBA      | The final project + paper is due |
 |                  |  |
