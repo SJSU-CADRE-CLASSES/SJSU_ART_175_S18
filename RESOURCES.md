@@ -18,3 +18,10 @@ Class Website: https://github.com/ablanton/SJSU_ART_175_S18
 
 Resources
 =========
+
+1/30
+Claudia Hart - http://www.claudiahart.com/portfolio.html
+VR Reaction - https://www.youtube.com/watch?v=l3V8zeSljUU
+DiMoDa - https://dimoda.art/
+VR at Sundance - https://www.wired.com/story/vr-film-spheres-huge-sundance-deal/?utm_content=bufferc7c3c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+Mark Klink - http://www.srcxor.org/blog/
