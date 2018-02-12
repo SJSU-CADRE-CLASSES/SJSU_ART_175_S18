@@ -20,8 +20,13 @@ Resources
 =========
 
 1/30
-Claudia Hart - http://www.claudiahart.com/portfolio.html
-VR Reaction - https://www.youtube.com/watch?v=l3V8zeSljUU
-DiMoDa - https://dimoda.art/
-VR at Sundance - https://www.wired.com/story/vr-film-spheres-huge-sundance-deal/?utm_content=bufferc7c3c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
-Mark Klink - http://www.srcxor.org/blog/
+1. Claudia Hart - http://www.claudiahart.com/portfolio.html
+2. VR Reaction - https://www.youtube.com/watch?v=l3V8zeSljUU
+3. DiMoDa - https://dimoda.art/
+4. VR at Sundance - https://www.wired.com/story/vr-film-spheres-huge-sundance-deal/?5. utm_content=bufferc7c3c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+6. Mark Klink - http://www.srcxor.org/blog/
+
+2/6
+1. Chelly Sherman - https://vimeo.com/194598147
+2. Rosa Menkman - https://www.youtube.com/watch?v=O6_UWuAAK5I
+3. Kirjo Takahashi - https://vimeo.com/keijiro
