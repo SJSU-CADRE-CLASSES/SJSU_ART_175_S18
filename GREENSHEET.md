@@ -84,9 +84,9 @@ Schedule
 | *Week 2* 01/30      | **Due:Assignment 1** *** Maya Tutorial 1: Intro to Maya basics *** Introduction to experimental 3D methods in Digital Media Art context and screen inspirational videos|
 | 02/01               | Screen related works (VR narrative + modeling + lighting) *** Work on first modeling assignment |
 | *Week 3* 02/06      | **Due: Project One:** Intro to Maya Basics + Modeling Assignment *** Maya Tutorial 2: Introduction to Lighting, Introduction to rendering *** Class exercise/Maya Problem Solving |
-| 02/08               | Screen Inspiration Videos *** Ideas + Concepts for the first project (each student must come to class with sketches/storyboard/research notes/and concepts they are interested in) *** **Assign Reading 1** |
-| *Week 4* 02/13      | **Due: Reading 1** Maya Tutorial 3: Introduction to texture + 2D vs. 3D *** Workshop Day |
-| 02/15               | Workshop Day (working on your second project) |
+| 02/08               | Screen Inspiration Videos *** Ideas + Concepts for the first project (each student must come to class with sketches/storyboard/research notes/and concepts they are interested in) |
+| *Week 4* 02/13      | **Assign Reading 1** *** Maya Tutorial 3: Introduction to texture + 2D vs. 3D *** Workshop Day |
+| 02/15               | **Due: Reading 1** Workshop Day (working on your second project) |
 | *Week 5* 02/20      | **Due: Project Two** Student Presentation of Second Project |
 | 02/22               | Student Presentation of Second Project |
 | *Week 6* 02/27      | Maya Tutorial 4: Introduction to Keyframe AnimationTimeline; Graph Editor; Playblast; Batch Rendering *** Class Exercise |
