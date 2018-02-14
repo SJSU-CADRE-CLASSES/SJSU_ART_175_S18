@@ -85,7 +85,7 @@ Schedule
 | 02/01               | Screen related works (VR narrative + modeling + lighting) *** Work on first modeling assignment |
 | *Week 3* 02/06      | **Due: Project One:** Intro to Maya Basics + Modeling Assignment *** Maya Tutorial 2: Introduction to Lighting, Introduction to rendering *** Class exercise/Maya Problem Solving |
 | 02/08               | Screen Inspiration Videos *** Ideas + Concepts for the first project (each student must come to class with sketches/storyboard/research notes/and concepts they are interested in) |
-| *Week 4* 02/13      | **Assign Reading 1** *** Maya Tutorial 3: Introduction to texture + 2D vs. 3D *** Workshop Day |
+| *Week 4* 02/13      | **Assign Reading: https://drive.google.com/file/d/1g3_6X6aMb76gGxX5m2zMOH0bQf7Ti2Cq/view?usp=sharing** *** Maya Tutorial 3: Introduction to texture + 2D vs. 3D *** Workshop Day |
 | 02/15               | **Due: Reading 1** Workshop Day (working on your second project) |
 | *Week 5* 02/20      | **Due: Project Two** Student Presentation of Second Project |
 | 02/22               | Student Presentation of Second Project |
