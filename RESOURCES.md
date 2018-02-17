@@ -30,3 +30,11 @@ Resources
 1. Chelly Sherman - https://vimeo.com/194598147
 2. Rosa Menkman - https://www.youtube.com/watch?v=O6_UWuAAK5I
 3. Kirjo Takahashi - https://vimeo.com/keijiro
+
+2/15
+1. Jeff Koons - https://www.google.com/search?q=jeff+koons&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjMn__Jh6nZAhUJ2WMKHYKBDoIQ_AUICigB&biw=1472&bih=953&dpr=2#imgrc=KH5rSwiNvHf2zM:
+2. olafur eliasson - https://www.google.com/search?q=olafur+eliasson&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjq5ILlh6nZAhUNzWMKHY6OBHAQ_AUICigB&biw=1472&bih=953#imgrc=rf7avgmEF1BolM:
+3. marina abramovich - https://www.google.com/search?q=marina+abramovic&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjFoZ2-iKnZAhVH7GMKHdClCfsQ_AUICygC&biw=1472&bih=953
+4. David Stout and Noisefold - https://www.google.com/search?q=david+stout+artist+vr&sa=X&tbm=isch&tbo=u&source=univ&ved=0ahUKEwjaxe-CkanZAhUUUGMKHWq_CFEQsAQIOg&biw=1140&bih=682#imgrc=1LYs8fRaZ1xqQM:
+5. Ed Atkins - https://www.youtube.com/watch?v=3EkqVWXBVOQ
+6. Max Msp with HTC Vive - https://github.com/worldmaking/Max_Worldmaking_Package
