@@ -38,4 +38,4 @@ Resources
 4. David Stout and Noisefold - https://www.google.com/search?q=david+stout+artist+vr&sa=X&tbm=isch&tbo=u&source=univ&ved=0ahUKEwjaxe-CkanZAhUUUGMKHWq_CFEQsAQIOg&biw=1140&bih=682#imgrc=1LYs8fRaZ1xqQM:
 5. Ed Atkins - https://www.youtube.com/watch?v=3EkqVWXBVOQ
 6. Max Msp with HTC Vive - https://github.com/worldmaking/Max_Worldmaking_Package
-7. Unity in Lighting Youtube tutorial - https://www.youtube.com/watch?v=VnG2gOKV9dw
+7. Lighting in Unity Youtube tutorial - https://www.youtube.com/watch?v=VnG2gOKV9dw
