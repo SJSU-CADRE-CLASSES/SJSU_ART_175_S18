@@ -1,6 +1,6 @@
 # Assignment 2 reading response #
 
-![Alt Text](https://media.giphy.com/media/3oEhmGgRW9AMzkqbnO/giphy.gif)
+![Alt Text](https://media.giphy.com/media/suhzmI6Iqiije/giphy.gif)
 
 In summary the reading showcase a conversation between Douglas Coupland and Daniel Brinbrum about art and virtual reality. They go into a lot of topics, some of them are: how virtual reality is better than reality itself, some limits of virtual reality, why artists are producing art in virtual reality, and possible affects that virtual reality can have on the internet. The reading was insightful to how other’s view virtual reality.
 
