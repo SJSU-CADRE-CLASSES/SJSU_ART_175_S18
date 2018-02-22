@@ -89,7 +89,8 @@ Schedule
 | 02/15               | Workshop Day (working on your second project) |
 | *Week 5* 02/20      | **Due: Reading 1**  Workshop on Project Two |
 | 02/22               | Virtual Reality demo and problem solving |
-| *Week 6* 02/27      | **Due: Project Two** Maya Tutorial 4: Introduction to Keyframe AnimationTimeline; Graph Editor; Playblast; Batch Rendering *** Class Exercise |
+| *Week 6* 02/27      | **Due: Project Two** Class Exercise |
+| 02/28               | Meeting with Dr. Furman's sound class |
 | 03/01               | Screen: Related Videos Introduction to Maya with Unity *** **Assign Reading 2** |
 | *Week 7* 03/06      | **Due: Reading 2** *** Ideas + Concepts for the third project (each team must come to class with sketches/research notes/and concepts they are interested in) *** Maya Problem Solving/Workshop Day  *** Screen Related works |
 | Thursday 03/08      | **Andrew Presenting at IBM Almeden 10am**
