@@ -39,3 +39,17 @@ Resources
 5. Ed Atkins - https://www.youtube.com/watch?v=3EkqVWXBVOQ
 6. Max Msp with HTC Vive - https://github.com/worldmaking/Max_Worldmaking_Package
 7. Lighting in Unity Youtube tutorial - https://www.youtube.com/watch?v=VnG2gOKV9dw
+
+2/20
+1. Alex McLeod https://vimeo.com/227971349
+2. Heightmap From Texture https://answers.unity.com/questions/1349349/heightmap-from-texture-script-converter.html
+3. Heightmat Tutorial https://www.youtube.com/watch?v=-vyNbalvXR4
+4. terrain.party http://terrain.party/
+
+2/22
+1. Jon Rafman https://vimeo.com/jonrafman/review/206170680/55d4b24d5c
+2. Nefertiti http://nefertitihack.alloversky.com/
+3. eXistenZ https://www.youtube.com/watch?v=IEuykd38iNE
+4. Bill Viola https://www.youtube.com/watch?v=DftfH1gYw0w
+5. Hyphen Labs http://www.hyphen-labs.com/nsaf.html
+6. The Internet Express https://theinternet.express/
