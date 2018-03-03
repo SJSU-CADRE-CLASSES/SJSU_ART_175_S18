@@ -98,7 +98,7 @@ Schedule
 | *Week 8* 03/13      | **Third Assignment Due** *** Due: One page Concept for Third Project + Team Members *** Unity Tutorial 2 *** Class exercise/Maya/Unity Problem Solving |
 | 03/15               | Screen: Related Videos/Works |
 | *Week 9* 03/20      | project three workshop  |
-| 03/22               | **Third Project DUE** Presentation Day ---> Student Presentation of Third Project  |
+| 03/22               | **Due: [Project Three](https://github.com/ablanton/SJSU_ART_175_S18/blob/master/SJSU_175_Project_3.pdf)** Presentation Day ---> Student Presentation of Third Project  |
 | Friday 03/24        | **LAST Exibition** Andrew performing at Stanford |
 | *Week 10* 03/27     | Spring Break |
 | 03/29               | Spring Break |
