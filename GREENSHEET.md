@@ -91,13 +91,13 @@ Schedule
 | 02/22               | Virtual Reality demo and problem solving |
 | *Week 6* 02/27      | **Due: [Project Two](https://github.com/ablanton/SJSU_ART_175_S18/blob/master/SJSU_175_Project_Two.pdf)** Class Exercise |
 | 02/28               | Meeting with Dr. Furman's sound class |
-| 03/01               | Screen: Related Videos Introduction to Maya with Unity *** **Assign Reading 2** |
-| *Week 7* 03/06      | **Due: Reading 2** *** Ideas + Concepts for the third project (each team must come to class with sketches/research notes/and concepts they are interested in) *** Maya Problem Solving/Workshop Day  *** Screen Related works |
+| 03/01               | Screen: Related Videos Introduction to Maya with Unity |
+| *Week 7* 03/06      | **Assign Reading 2** Ideas + Concepts for the third project workshop *** Unity Multiple Scene Tutorial |
 | Thursday 03/08      | **Andrew Presenting at IBM Almeden 10am**
-| 03/08               | **Third Assignment Due** *** Due: One page Concept for Third Project + Team Members |
-| *Week 8* 03/13      | Unity Tutorial 2 *** Class exercise/Maya/Unity Problem Solving |
-| 03/15               | Screen: Related Videos/Works *** Introduction to VR |
-| *Week 9* 03/20      | **Third Project DUE** Presentation Day ---> Student Presentation of Third Project  |
+| 03/08               | **Due: Reading 2** *** Maya Problem Solving/Workshop Day |
+| *Week 8* 03/13      | **Third Assignment Due** *** Due: One page Concept for Third Project + Team Members *** Unity Tutorial 2 *** Class exercise/Maya/Unity Problem Solving |
+| 03/15               | Screen: Related Videos/Works |
+| *Week 9* 03/20      | project three workshop  |
 | 03/22               | **Third Project DUE** Presentation Day ---> Student Presentation of Third Project  |
 | Friday 03/24        | **LAST Exibition** Andrew performing at Stanford |
 | *Week 10* 03/27     | Spring Break |
