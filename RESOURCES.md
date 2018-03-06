@@ -53,3 +53,12 @@ Resources
 4. Bill Viola https://www.youtube.com/watch?v=DftfH1gYw0w
 5. Hyphen Labs http://www.hyphen-labs.com/nsaf.html
 6. The Internet Express https://theinternet.express/
+
+2/27
+1. anouk wipprecht https://vimeo.com/anoukwipprecht
+2. behnaz caress of the gaze http://behnazfarahi.com/caress-of-the-gaze/
+3. unity ml https://unity3d.com/machine-learning
+4. unity ml challenge https://blogs.unity3d.com/2018/02/28/introducing-the-winners-of-the-first-ml-agents-challenge/?_ga=2.97195227.573303233.1519948129-1063692665.1519754330
+5. kirjo https://vimeo.com/keijiro
+6. low poly water http://viclw17.github.io/2016/03/29/low-poly-water/
+
