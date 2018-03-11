@@ -62,3 +62,16 @@ Resources
 5. kirjo https://vimeo.com/keijiro
 6. low poly water http://viclw17.github.io/2016/03/29/low-poly-water/
 
+3/6
+1. Photogrammetry in Unity https://unity3d.com/files/solutions/photogrammetry/Unity-Photogrammetry-Workflow_2017-07_v2.pdf
+2. Three.js editor https://threejs.org/editor/
+3. Depth Mapps in google data https://gizmodo.com/depth-maps-hidden-in-google-street-view-create-flickeri-1551425770
+4. texturing software https://quixel.se/suite2/
+
+3/8
+1. Clouds Over Sidra https://www.youtube.com/watch?v=mUosdCQsMkM
+2. Head Tracking - Johnny Lee https://www.youtube.com/watch?v=Jd3-eiid-Uw
+3. keijiro shader hacking https://gist.github.com/keijiro/cecf6b280d6e4402ffc2c74a99d400df
+4. VR in military training https://insights.samsung.com/2017/07/13/how-virtual-reality-is-changing-military-training/
+5. shader toy https://www.shadertoy.com/view/MsdcWf
+6. ShaderGraph https://github.com/keijiro/ShaderGraph
