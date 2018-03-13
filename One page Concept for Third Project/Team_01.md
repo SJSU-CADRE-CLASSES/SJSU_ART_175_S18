@@ -1,14 +1,8 @@
-3D Artist
-Anthony Flores
-Justin Kim
-Kong Vue
+3D Artist: Anthony Flores, Justin Kim, Kong Vue
 
+Musicians: Daniel Thomas, Nick Roberto, Shigeru Myers
 
-Musicians 
-Daniel Thomas  
-Nick Roberto 
-Shigeru Myers  
-Art 175 Project 3
+#Art 175 Project 3#
 
 Our project explores the connections of the forest, the city, and the audience through 3d constructed scenes. The concept revolves around the cycle of death and rebirth of a forest. We are interested in the idea of a forest being cleared out to make room for a city. The city eventually turns into ruins, from an unknown cause, and we get this idea of rebirth of the forest as plant life slowly grow on top of the ruins.
 
