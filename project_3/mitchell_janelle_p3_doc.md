@@ -6,7 +6,7 @@ This work-in-progress VR scene is a simulation of _beams_ of atoms traveling thr
 
 This project will be worked on further to include the concept of the physics of traveling at light-speed. Theoretically, when an entity approaches the light of speed (or 99.9% of this universal speed limit), things start to get real weird<sup>[1](#references)</sup>. The field of view of the traveler drastically increases, to a point where you start to see things that are behind you, and everything in sight appears to be shortened in length. Time also will seem to slow down, but just for the traveler (due to Einstein's Theory of Relativity).
 
-![](https://media.giphy.com/media/6utOM2sRkOkeJGzWDi/giphy.gif)
+[GIF](https://media.giphy.com/media/6utOM2sRkOkeJGzWDi/giphy.gif)
 ![](https://i.imgur.com/dMUR3bw.png)
 ![](https://i.imgur.com/p0rvhY8.jpg)
 
