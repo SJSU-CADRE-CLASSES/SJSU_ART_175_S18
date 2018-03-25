@@ -76,6 +76,16 @@ Resources
 5. shader toy https://www.shadertoy.com/view/MsdcWf
 6. ShaderGraph https://github.com/keijiro/ShaderGraph
 
+3/13
+1. Prefabs https://docs.unity3d.com/Manual/InstantiatingPrefabs.html
+2. Unity OSC https://github.com/thomasfredericks/UnityOSC
+3. Dream House https://vimeo.com/62965018
+4. Unity Jobs https://connect.unity.com/?_ga=2.112023172.1256359929.1520987381-726778448.1519950239
+5. Hito Stryl https://www.artforum.com/video/hito-steyerl-how-not-to-be-seen-a-fucking-didactic-educational-mov-file-2013-51651
+6. Open Frameworks http://openframeworks.cc/
+7. CNMAT ODOT https://github.com/CNMAT/CNMAT-odot/releases
+8. GDC https://unity3d.com/gdc-2018
+
 3/15
 1. AR HotStepper http://hotstepper.dance/
 2. AR Civilisations https://nexusstudios.com/work/civilisations-ar/
@@ -95,4 +105,19 @@ Resources
 16. AR Dumbo Darkly http://fakelove.tv/play/dumbo-darkly
 17. WebAR https://www.blog.google/products/google-vr/augmented-reality-web-everyone/
 18. Demo Scene http://www.pouet.net/prod.php?which=69654
+
+3/20
+1. AFRAME https://aframe.io/docs/0.8.0/introduction/
+2. AFAME Editor https://aframe.io/aframe-inspector/example/
+3. DiMoDa https://dimoda.art/#about-section
+4. http://tabitarezaire.com/malaxa.html
+5. Estella Tse https://www.estellatse.com/alien-xenomorph/
+6. John Raffman https://vimeo.com/jonrafman/review/206170680/55d4b24d5c
+7. Versailles https://www.google.com/maps/@48.8051679,2.1206834,2a,75y,244.29h,92.14t/data=!3m6!1e1!3m4!1sTUQRcmyhBx3q6hrA3-T4zw!2e0!7i13312!8i6656
+8. Eleven Play https://www.youtube.com/watch?v=UiBKLlbofCE
+
+3/22
+1. David Oriley Wolf https://vimeo.com/1617657
+2. Jonathan Monaghan https://vimeo.com/68236151
+3. Noisefold https://www.google.com/search?q=noisefold&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi96NeHjYHaAhUM12MKHeFUDmYQ_AUIDCgD&biw=1288&bih=714&dpr=2#imgrc=ZHrRewU7ex7KJM:
 
