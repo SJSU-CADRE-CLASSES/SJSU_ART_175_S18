@@ -75,3 +75,24 @@ Resources
 4. VR in military training https://insights.samsung.com/2017/07/13/how-virtual-reality-is-changing-military-training/
 5. shader toy https://www.shadertoy.com/view/MsdcWf
 6. ShaderGraph https://github.com/keijiro/ShaderGraph
+
+3/15
+1. AR HotStepper http://hotstepper.dance/
+2. AR Civilisations https://nexusstudios.com/work/civilisations-ar/
+3. AR ARQUA https://itunes.apple.com/us/app/arqua/id1278786518?mt=8
+4. AR Weird Type https://itunes.apple.com/us/app/weird-type/id1352785248?mt=8
+5. AR MoMAR http://momar.gallery/
+6. AR Pigeon Panic https://itunes.apple.com/us/app/pigeon-panic-ar/id1272651887?mt=8
+7. Design Firm Quantum Love http://fakelove.tv/play/quantum-love
+8. AR AMON https://itunes.apple.com/us/app/amon/id1276464043?mt=8
+9. AR Mirage https://mirage.world/
+10. AR 3Draw https://itunes.apple.com/us/app/3draw/id413109413?mt=8
+11. The Parallax View https://itunes.apple.com/us/app/theparallaxview/id1352818700?mt=8
+12. AR Dumb Fun https://itunes.apple.com/us/app/dumb-fun/id1336327487?mt=8
+13. Project Tango https://www.youtube.com/watch?v=Qe10ExwzCqk
+14. 3D mapping in Promethus http://www.criticalcommons.org/Members/ccManager/clips/3d-mapping-technology-in-prometheus/view
+15. AR GiphyWorld https://giphy.com/apps/giphyworld
+16. AR Dumbo Darkly http://fakelove.tv/play/dumbo-darkly
+17. WebAR https://www.blog.google/products/google-vr/augmented-reality-web-everyone/
+18. Demo Scene http://www.pouet.net/prod.php?which=69654
+
