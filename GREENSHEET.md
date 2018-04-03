@@ -104,15 +104,15 @@ Schedule
 | 03/29               | Spring Break |
 | *Week 11* 04/03     | Introduction of 4rd project *** Unity Tutorial 3 *** **Assign Reading 3** |
 | 04/05               | **Due: Reading 3** Screen Videos + Class Discussion |
-| Thursday 04/05      | **SOFTWAR(e)** Opening at b4bel4b in Oakland!! |
 | *Week 12* 04/10     | **Due: Assignment 4** *** Show and Tell: Different Maya/Unity Components (Student Presentations)  |
-| 04/12               | **ATC Class will meet in MLK** |
+| 04/12               | In class: working on Fourth Project/problem solving *** Workshop Day For Project 4 |
 | *Week 13* 04/17     | **Fourth Project Due** Presentation Day ---> Student Presentation of Fourth Project |
 | 04/19               | **Fourth Project Due** Presentation Day ---> Student Presentation of Fourth Project |
 | *Week 14* 04/24     | Unity Tutorial 4 *** In Class Exercise |
 | 04/26               | **Assign Reading 4** Screen Videos + Class Discussion |
 | *Week 15* 05/01     | **Due: Reading 4** *** In class: working on final/problem solving *** Workshop Day For Final|
 | 05/3                | In class: working on final/problem solving *** Workshop Day For Final  |
+| Thursday 05/05      | **SOFTWAR(e)** Opening at b4bel4b in Oakland!! |
 | *Week 16* 05/08     | **Final Presentations** Presentation Day ---> Student Presentation of Final Project  |
 | 05/10               | **Final Presentations** Presentation Day ---> Student Presentation of Final Project |
 | Date TBA            | **Hammer Graduating Group Show**
