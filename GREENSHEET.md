@@ -103,8 +103,8 @@ Schedule
 | *Week 10* 03/27     | Spring Break |
 | 03/29               | Spring Break |
 | *Week 11* 04/03     | Introduction of 4rd project *** Unity Tutorial 3 *** **Assign Reading 3** |
-| 04/05               | **Due: Reading 3** Screen Videos + Class Discussion |
-| *Week 12* 04/10     | **Due: Assignment 4** *** Show and Tell: Different Maya/Unity Components (Student Presentations)  |
+| 04/05               | Screen Videos + Class workshop on mobile deployment |
+| *Week 12* 04/10     | **Due: Assignment 4** mobile prototype running on device *** **Due: [Reading 3](https://hyperallergic.com/252786/tripping-through-digital-landscapes-in-virtual-reality-and-on-canvas/)** Show and Tell: Different Maya/Unity Components (Student Presentations)  |
 | 04/12               | In class: working on Fourth Project/problem solving *** Workshop Day For Project 4 |
 | *Week 13* 04/17     | **Fourth Project Due** Presentation Day ---> Student Presentation of Fourth Project |
 | 04/19               | **Fourth Project Due** Presentation Day ---> Student Presentation of Fourth Project |
