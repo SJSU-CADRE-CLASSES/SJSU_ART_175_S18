@@ -121,3 +121,13 @@ Resources
 2. Jonathan Monaghan https://vimeo.com/68236151
 3. Noisefold https://www.google.com/search?q=noisefold&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi96NeHjYHaAhUM12MKHeFUDmYQ_AUIDCgD&biw=1288&bih=714&dpr=2#imgrc=ZHrRewU7ex7KJM:
 
+4/3
+1. Hyperallergic https://hyperallergic.com/252786/tripping-through-digital-landscapes-in-virtual-reality-and-on-canvas/
+2. tabaimo https://www.youtube.com/watch?v=wYL-9A5SZag
+3. Anthony Mccall https://www.youtube.com/watch?v=5wiTHbBfy3s
+4. UnityPD https://github.com/playdots/UnityPd
+5. Android Studio https://developer.android.com/studio/install.html
+6. Android SDK Setup https://docs.unity3d.com/Manual/android-sdksetup.html
+7. Apple xCode https://developer.apple.com/xcode/
+8. Apple developer account https://developer.apple.com
+
