@@ -1,6 +1,6 @@
 # VR, why so conceptual. #
 
-![Alt Text](https://media.giphy.com/media/XtdDENHEZ0SswVRWex/giphy.gif)
+![Alt Text](http://gph.is/2oZ6W2T)
 
 
 The reading was not very interesting, personally, but it does provide good exposure to thinking conceptually when creating artworks in VR. I point this out because I know that a lot of students, including me, in the DMA program struggles with this. If I understand the reading correctly it seems that Rachel Rossin’s paintings, the one showcased in the article, are recreations of digital originals. I like the way this process connects back to the tittle “Lossy” which is relating to data compression in which unnecessary information is discarded. The thought of information lost during the transfer from a digital screen to an oil canvas grabbed my attention. 
