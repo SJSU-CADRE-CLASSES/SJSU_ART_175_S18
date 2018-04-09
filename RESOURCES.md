@@ -131,3 +131,9 @@ Resources
 7. Apple xCode https://developer.apple.com/xcode/
 8. Apple developer account https://developer.apple.com
 
+4/5
+1. Android Quickstart https://developers.google.com/ar/develop/java/quickstart
+2. Unity Android ARCore Quickstart https://developers.google.com/ar/develop/unity/quickstart
+3. Android ARCore SDK https://github.com/google-ar/arcore-unity-sdk/releases
+4. Black Monuments Project https://www.google.com/search?q=Augmented+reality+black+monuments&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwi-xNmDmKTaAhWS2YMKHV9wD6wQsAQIOQ&biw=1528&bih=870#imgrc=n2HSz6alkWt7YM:
+5. https://mic.com/articles/187724/black-monuments-project-heres-how-to-use-colin-kaepernick-anita-hill-statues-on-snapchat#.eoKSr3mDx
