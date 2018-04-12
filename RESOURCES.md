@@ -137,3 +137,9 @@ Resources
 3. Android ARCore SDK https://github.com/google-ar/arcore-unity-sdk/releases
 4. Black Monuments Project https://www.google.com/search?q=Augmented+reality+black+monuments&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwi-xNmDmKTaAhWS2YMKHV9wD6wQsAQIOQ&biw=1528&bih=870#imgrc=n2HSz6alkWt7YM:
 5. https://mic.com/articles/187724/black-monuments-project-heres-how-to-use-colin-kaepernick-anita-hill-statues-on-snapchat#.eoKSr3mDx
+
+
+4/12
+1. ARKit(iOS),ARcore(Andriod), and Vuforia TUtorial (Long review tutorial) https://www.youtube.com/watch?v=JeyvqGVfK5k&list=PLSnTJZHM7MS_7dlUe06bFWERCnIfC8xVc&index=28&t=3449s
+2. Vuforia Tutorial(With Button Animation AR) https://www.youtube.com/watch?v=Fgd21lbhikU&list=PLSnTJZHM7MS_7dlUe06bFWERCnIfC8xVc&index=29&t=0s
+3. Vuforia Tutorial(Regular Target Image) https://www.youtube.com/watch?v=HnjbTytHH6U&list=PLSnTJZHM7MS_7dlUe06bFWERCnIfC8xVc&index=26&t=832s
