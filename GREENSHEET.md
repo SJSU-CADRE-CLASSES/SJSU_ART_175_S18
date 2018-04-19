@@ -108,7 +108,7 @@ Schedule
 | 04/12               | In class: working on Fourth Project/problem solving *** Workshop Day For Project 4 |
 | *Week 13* 04/17     | **Fourth Project Due** Presentation Day ---> Student Presentation of Fourth Project |
 | 04/19               | **Fourth Project Due** Presentation Day ---> Student Presentation of Fourth Project |
-| *Week 14* 04/24     | Unity Tutorial 4 *** In Class Exercise |
+| *Week 14* 04/24     | Unity Tutorial 4 *** In Class Exercise + 360 video documentation |
 | 04/26               | **Assign Reading 4** Screen Videos + Class Discussion |
 | *Week 15* 05/01     | **Due: Reading 4** *** In class: working on final/problem solving *** Workshop Day For Final|
 | 05/3                | In class: working on final/problem solving *** Workshop Day For Final  |
