@@ -151,3 +151,12 @@ Resources
 4. Anthony Antonellis https://twitter.com/a_antonellis
 5. John Craig Freedman https://johncraigfreeman.wordpress.com/page/2/
 6. Box Animation https://vimeo.com/7993383
+
+4/19
+1. EQJS http://eloquentjavascript.net/04_data.html
+2. Unity in Action https://www.amazon.com/Unity-Action-Multiplatform-Game-Development/dp/161729232X
+3. Chelly Sherman Das Is https://www.spaceisthe.place/#/das-is/
+4. Laurel Halo https://vimeo.com/247074107?from=outro-embed
+5. Unity Portal https://www.youtube.com/watch?v=cuQao3hEKfs
+6. Rosa Menkman https://www.youtube.com/watch?v=f6t5Icbx0Zg
+7. VoxelMan https://github.com/keijiro/Voxelman
