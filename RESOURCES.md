@@ -143,3 +143,11 @@ Resources
 1. ARKit(iOS),ARcore(Andriod), and Vuforia TUtorial (Long review tutorial) https://www.youtube.com/watch?v=JeyvqGVfK5k&list=PLSnTJZHM7MS_7dlUe06bFWERCnIfC8xVc&index=28&t=3449s
 2. Vuforia Tutorial(With Button Animation AR) https://www.youtube.com/watch?v=Fgd21lbhikU&list=PLSnTJZHM7MS_7dlUe06bFWERCnIfC8xVc&index=29&t=0s
 3. Vuforia Tutorial(Regular Target Image) https://www.youtube.com/watch?v=HnjbTytHH6U&list=PLSnTJZHM7MS_7dlUe06bFWERCnIfC8xVc&index=26&t=832s
+
+4/17
+1. Maya Parent Objects https://knowledge.autodesk.com/support/maya/learn-explore/caas/CloudHelp/cloudhelp/2016/ENU/Maya/files/GUID-2FC0EE9E-A8D5-4B2A-A751-8B926389497A-htm.html
+2. Machine Learning Guides https://ml4a.github.io/guides/
+3. Vuforia https://www.vuforia.com/
+4. Anthony Antonellis https://twitter.com/a_antonellis
+5. John Craig Freedman https://johncraigfreeman.wordpress.com/page/2/
+6. Box Animation https://vimeo.com/7993383
