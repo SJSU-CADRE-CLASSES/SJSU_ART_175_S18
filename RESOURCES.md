@@ -160,3 +160,15 @@ Resources
 5. Unity Portal https://www.youtube.com/watch?v=cuQao3hEKfs
 6. Rosa Menkman https://www.youtube.com/watch?v=f6t5Icbx0Zg
 7. VoxelMan https://github.com/keijiro/Voxelman
+
+4/24
+1. ribbon rig https://www.creativebloq.com/how-to/how-to-make-a-flexible-ribbon-rig
+2. colorful colorado https://www.youtube.com/watch?v=6-l2GJ7eou8
+3. vitreous https://vimeo.com/148470865
+4. system aesthetics https://vimeo.com/250819704
+5. robert sidel http://www.robertseidel.com/grapheme.275.0.html
+6. unity 360 documentation https://blogs.unity3d.com/2018/01/26/stereo-360-image-and-video-capture/
+7. unity generic frame recorder https://github.com/Unity-Technologies/GenericFrameRecorder
+8. unity scripting api https://docs.unity3d.com/ScriptReference/Input.GetKeyDown.html
+9. 3D models https://www.turbosquid.com
+10. panther http://panthermodern.org/roomfifteen.html
