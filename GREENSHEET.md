@@ -110,11 +110,12 @@ Schedule
 | 04/19               | **Fourth Project Due** Presentation Day ---> Student Presentation of Fourth Project |
 | *Week 14* 04/24     | Unity Tutorial 4 *** In Class Exercise + 360 video documentation |
 | 04/26               | **Assign Reading 4** Screen Videos + Class Discussion |
-| *Week 15* 05/01     | **Due: Reading 4** *** In class: working on final/problem solving *** Workshop Day For Final|
+| 04/28               | **Hammer Graduating Group Show** |
+| *Week 15* 05/01     | In class: working on final/problem solving *** Workshop Day For Final|
 | 05/3                | In class: working on final/problem solving *** Workshop Day For Final  |
-| Thursday 05/05      | **SOFTWAR(e)** Opening at b4bel4b in Oakland!! |
-| *Week 16* 05/08     | **Final Presentations** Presentation Day ---> Student Presentation of Final Project  |
-| 05/10               | **Final Presentations** Presentation Day ---> Student Presentation of Final Project |
-| Date TBA            | **Hammer Graduating Group Show**
+| Thursday 05/12      | **SOFTWAR(e)** Opening at b4bel4b in Oakland!! |
+| *Week 16* 05/08     | Reading 4 Due *** In class: working on final/problem solving *** Workshop Day For Final  |
+| 05/10               | In class: working on final/problem solving *** Workshop Day For Final |
+| Thursday 05/12      | **SOFTWAR(e)** Opening at b4bel4b in Oakland!! |
 | *Final*  TBA      | The final project + paper is due |
 |                  |  |
