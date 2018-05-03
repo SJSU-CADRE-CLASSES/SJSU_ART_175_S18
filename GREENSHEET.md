@@ -113,7 +113,6 @@ Schedule
 | 04/28               | **Hammer Graduating Group Show** |
 | *Week 15* 05/01     | In class: working on final/problem solving *** Workshop Day For Final|
 | 05/3                | In class: working on final/problem solving *** Workshop Day For Final  |
-| Thursday 05/12      | **SOFTWAR(e)** Opening at b4bel4b in Oakland!! |
 | *Week 16* 05/08     | Reading 4 Due *** In class: working on final/problem solving *** Workshop Day For Final  |
 | 05/10               | In class: working on final/problem solving *** Workshop Day For Final |
 | Thursday 05/12      | **SOFTWAR(e)** Opening at b4bel4b in Oakland!! |
