@@ -172,3 +172,13 @@ Resources
 8. unity scripting api https://docs.unity3d.com/ScriptReference/Input.GetKeyDown.html
 9. 3D models https://www.turbosquid.com
 10. panther http://panthermodern.org/roomfifteen.html
+
+5/1
+1. Thoughts on Glitch Art http://nickbriz.com/thoughtsonglitchart/
+2. WAVEGUIDE andrewblanton.com/node.html
+3. Sahar Homami https://saharhomami.com/
+
+5/3
+1. reference image modeling http://download.autodesk.com/us/maya/maya_2014_gettingstarted/index.html?url=files/Modeling_a_polygonal_mesh_Using_2D_reference_images.htm,topicNumber=d30e6497
+2. Enabling game objects via script https://answers.unity.com/questions/896755/enabledisable-game-objects-after-wait-for-seconds.html
+3. Tony Conrad, Flicker https://www.youtube.com/watch?v=ZJbqnztjkbs
