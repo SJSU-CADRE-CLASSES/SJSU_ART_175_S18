@@ -116,5 +116,5 @@ Schedule
 | *Week 16* 05/08     | Reading 4 Due *** In class: working on final/problem solving *** Workshop Day For Final  |
 | 05/10               | In class: working on final/problem solving *** Workshop Day For Final |
 | Thursday 05/12      | **SOFTWAR(e)** Opening at b4bel4b in Oakland!! |
-| *Final*  TBA      | The final project + paper is due |
+| *Final*  5/18 2:45      | The final project + paper is due |
 |                  |  |
