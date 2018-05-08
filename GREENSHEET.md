@@ -113,8 +113,8 @@ Schedule
 | 04/28               | **Hammer Graduating Group Show** |
 | *Week 15* 05/01     | In class: working on final/problem solving *** Workshop Day For Final|
 | 05/3                | In class: working on final/problem solving *** Workshop Day For Final  |
-| *Week 16* 05/08     | *** In class: working on final/problem solving *** Workshop Day For Final  |
-| 05/10               | In class: working on final/problem solving *** Workshop Day For Final |
+| *Week 16* 05/08     | Extra Credit Reading Four http://www.real-fake.org/immersiveenvironments.html *** In class: working on final/problem solving *** Workshop Day For Final  |
+| 05/10               | Reading Four Discussion *** In class: working on final/problem solving *** Workshop Day For Final |
 | Thursday 05/12      | **SOFTWAR(e)** Opening at b4bel4b in Oakland!! |
 | *Final*  5/18 2:45      | The final project + paper is due |
 |                  |  |
