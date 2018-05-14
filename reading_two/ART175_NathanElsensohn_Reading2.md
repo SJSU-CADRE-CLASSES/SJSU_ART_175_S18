@@ -2,7 +2,7 @@ Nathan Elsensohn
 ART175
 
 Reading 2:
-~~~~~~~
+---------
 
 A thought I had with regard to Mai Luong's article is that with VR, immersion is paradoxically both easier and more difficult to achieve. With other media it requires a highly active and detailed imagination to reach anything like the immersion that VR can tout with (seemingly) relative ease. In a world which is increasingly fueled--re: consumes--heaps upon mounds of data at any given time through social networking, general 'net usage, and digital entertainment, I am of a mind that surmises that our imaginations are, largely and collectively, being downgraded and degraded in said digital meat-grinder. Those who desire stimulation CRAVE it, and from outside themselves. VR, an already immersive media, can utterly capitalize on this. An intense, IMMERSIVE experience awaits, waiting to sink its hooks into the receptive mind-meat.  
 
