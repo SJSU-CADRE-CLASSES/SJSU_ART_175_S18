@@ -182,3 +182,18 @@ Resources
 1. reference image modeling http://download.autodesk.com/us/maya/maya_2014_gettingstarted/index.html?url=files/Modeling_a_polygonal_mesh_Using_2D_reference_images.htm,topicNumber=d30e6497
 2. Enabling game objects via script https://answers.unity.com/questions/896755/enabledisable-game-objects-after-wait-for-seconds.html
 3. Tony Conrad, Flicker https://www.youtube.com/watch?v=ZJbqnztjkbs
+
+5/14
+1. Raymarching https://kev.town/raymarching/
+2. Real-Fake http://www.real-fake.org/immersiveenvironments.html
+3. YASE http://slides.com/notlion/pst#/11
+4. YASE https://github.com/notlion/YASE
+5. Kurt Henschlager http://kurthentschlager.com/
+5. Liminality https://en.wikipedia.org/wiki/Liminality
+6. Christopher Manzione http://www.christophermanzione.com/portfolio/mixedrealities/world-and-place-evaporating/
+7. Will Pappenheimer http://www.willpap-projects.com/Docus/Projects_List/MainProjectsFrameset.html
+8. Nora Khan https://medium.com/after-us/towards-a-poetics-of-artificial-superintelligence-ebff11d2d249
+9. Max as art https://www.youtube.com/watch?v=IBnxFNV06N4
+10. Ryan Alexander https://www.youtube.com/watch?v=9dPPDf3ZBBI
+11. Holochain https://medium.com/holochain/holochain-reinventing-applications-d2ac1e4f25ef
+12. Apple Developer https://developer.apple.com/
