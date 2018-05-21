@@ -1,0 +1,29 @@
+Nathan Elsensohn
+ART175
+Data Viz
+
+Re: 
+Immersive Environments
+
+Virtual reality, augmented reality, and mixed reality: these can be considered the three pillars of immersive digital environments. The different approaches of the three are driven by different nuances, and result in distinct experiences. 
+
+One--virtual reality, VR--necessitates that the participant enter, of their own accord, into an alternative world. This one is probably the most directly immersive of the lot, due to how the method of engagement and the results of the engagement have the most visceral effects on the participant engaging with it. It is deeply-rooted human nature to set off to explore new spaces. While the similarity may be superficial, rather than of actual tradition, it calls to mind the aspects of monomyth culture which involve one being spirited away to secret realms out of human ken, like fairy lands, or the different realms of Buddhism. VR, in its own way, and context, invokes a sort of mysticsm and awe that calls to mind Arthur C. Clarke's most famous of his Three Laws "Any sufficiently advanced technology is indistinguishable from magic." Because of this capability to whisk away participants, I've always been engrossed with the narrative and immersive qualities of virtual spaces, even the most basic of video games included, and if I pursue this field, I'll continue focus on that aspect.    
+
+According to Lichty, in referring to his research conducted from Oliver Grau's "Virtual Art," "In order for the human zeitgeist to understand synthetic space, it needs a physical backdrop onto which to model it." Virtual worlds as incubators of virtual art is a natural course of action. VR does this by creating the world in which the action takes place from scratch, while augmented reality and mixed reality (AR and MR, respectively), add their own flavor to the world that exists around us. With the proper tagging and visual input, AR can overlap digital imagery atop footage of reality, translating what exists into a different sort of experience. To go back to mysticism for a metaphor, I'd like that to having second sight--a third eye, a means to see and engage with the unengagable. In pursuing this, I'd like to devise a narrative, atmospheric-based AR experience in that mysticsm vein. A start, albeit a lofty one, would be an AR haunted house, or something to that effect.
+
+Mixed reality, MR, is the one closest to our everyday life. The increasing commonplace state of AIs, automation, and apps on our smartphones is enough to make Donna Haraway vindicated, and her Cyborg Manifesto into a sort of self-fulfilling prophecy. If sufficiently advanced science is indistingushable from magic, then in a life enhanced with digitality, what personas, niches, faces could these daemons take, and what ways could they engage with the sorcerers that we are?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
